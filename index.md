@@ -1,6 +1,6 @@
 # Hello World
 
-This is my home page! My name is Armaan Qazen and I am a student at Cal State Fullerton and my major is Computer Science.
+Welcome to my home page! My name is Armaan Qazen and I am a student at Cal State Fullerton and my major is Computer Science.
 
 ## Computer Science Projects
 
