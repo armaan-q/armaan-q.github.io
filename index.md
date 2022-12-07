@@ -4,7 +4,7 @@ Welcome to my home page! My name is Armaan Qazen and I am a student at Cal State
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/armaan_q
+My GitHub page is http://github.com/armaan-q
 
 ### CPSC 120
 
